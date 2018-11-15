@@ -1,0 +1,17 @@
+
+
+
+body{
+background-color: black;
+}
+
+
+#adminwelcometext{
+
+    font-size: xx-large;
+    font-weight: 400;
+    text-space: 2px;
+    color: #1b6d85;
+    margin-top: 20px;
+    margin-left: 20px;
+}
